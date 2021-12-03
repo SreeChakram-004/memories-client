@@ -1,3 +1,8 @@
+Project Credits TO "JAVASCRIPT MASTERY" modified the project with ES6 Functinalities
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
